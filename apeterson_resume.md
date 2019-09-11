@@ -62,7 +62,7 @@ Darwin Day
 2.	“”. Midwest Popgen meeting. St. Paul, MN.
 
   **Peterson, A. L.** Evolution of Recombination. Rebecca J. Holz series in Research Data Management. July 2017. Portland, OR.
-TODO: link to my slides [Link to Slides](https://goo.gl/0ge2LZ)
+[Link to Slides](https://drive.google.com/file/d/1UPS9O3RsivHF3-aeJV0lyc9iBUyOjtYY/view?usp=sharing)
 
 ------
 
