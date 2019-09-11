@@ -57,7 +57,7 @@ Darwin Day
 
 ## Oral Presentations {#oral_pres}
 
-1.	Conservation of recombination rates in a wild population of white-footed mice, 4/18/19. Evolution Seminar Sereies. Madison, WI.
+1.	Conservation of recombination rates in a wild population of white-footed mice, 4/18/19. Evolution Seminar Sereies. Madison, WI. [Link to Slides](https://drive.google.com/file/d/13q0R_vISxq7164_oYaz91YdhWR9YVqge/view?usp=sharing)
 
 2.	“”. Midwest Popgen meeting. St. Paul, MN.
 
