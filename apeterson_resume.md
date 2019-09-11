@@ -59,7 +59,7 @@ Darwin Day
 
 1.	Conservation of recombination rates in a wild population of white-footed mice, 4/18/19. Evolution Seminar Sereies. Madison, WI. [Link to Slides](https://drive.google.com/file/d/13q0R_vISxq7164_oYaz91YdhWR9YVqge/view?usp=sharing)
 
-2.	“”. Midwest Popgen meeting. St. Paul, MN.
+2.	“Characterizing meiotic recombiantion in a wild population of Peromyscus leucopus”. Midwest Popgen meeting. 8-25-18. St. Paul, MN. [Link to Slides](https://drive.google.com/file/d/1EEvPY1WUvGSKE-U8coX62giRbjhlU7TB/view?usp=sharing)
 
   **Peterson, A. L.** Evolution of Recombination. Rebecca J. Holz series in Research Data Management. July 2017. Portland, OR.
 [Link to Slides](https://drive.google.com/file/d/1UPS9O3RsivHF3-aeJV0lyc9iBUyOjtYY/view?usp=sharing)
