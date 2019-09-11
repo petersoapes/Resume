@@ -29,6 +29,8 @@ University of Wisconsin - Madison,
 
 ## Publications {#publications}
 
+**Peterson, A. L.**, Miller, N. D., & Payseur, B. A. (2019). Conservation of the genome-wide recombination rate in white-footed mice. Heredity, 1-16.
+
 Møller, E. K., Parveen, K., Voet, T., **Peterson, A.**, Van Loo, P., Mathiesen, R.R., Fjelldal R., Grundstad J., Borgen E., Baumbusch L.O., Naume B., Børresen-Dale, A., White, K.P., Nord, S., Vessela N. Kristensen, V.N., (2013). Frontiers in oncology. Next-generation sequencing of disseminated tumor cells. DOI:10.3389/fonc.2013.00320.
 
 Hekman, K.E., Yu, G.Y., Brown, C.D., Zhu, H., Du, X., Gervin, K., Undlien, D.E., **Peterson, A.**, Stevanin, G., Clark, H.B. and Pulst, S., Human molecular genetics. (2012). A conserved eEF2 coding variant in SCA26 leads to loss of translational fidelity and increased susceptibility to proteostatic insult. doi:10.1093/hmg/dds392. 
@@ -54,6 +56,10 @@ Darwin Day
 ------
 
 ## Oral Presentations {#oral_pres}
+
+1.	Conservation of recombination rates in a wild population of white-footed mice, 4/18/19. Evolution Seminar Sereies. Madison, WI.
+
+2.	“”. Midwest Popgen meeting. St. Paul, MN.
 
   **Peterson, A. L.** Evolution of Recombination. Rebecca J. Holz series in Research Data Management. July 2017. Portland, OR.
 TODO: link to my slides [Link to Slides](https://goo.gl/0ge2LZ)
